@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+plots/step*
+*.visit
+main
+restart/rest.step
+
