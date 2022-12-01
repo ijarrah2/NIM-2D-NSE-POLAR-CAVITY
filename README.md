@@ -5,7 +5,7 @@ The code is written by Ibrahim Jarrah. If you have any questions, feel free to r
 # Test case: Lid-Driven Flow in a Polar Cavity
 The details of the case can be found [here](https://www.ideals.illinois.edu/items/124600) in page 118.<br />
 # Silo Library
-[Silo](https://github.com/LLNL/Silo) library is required to run the code. You can istall it and provide the path to silo in the Makefile, or use the provided script [install.sh](3rd_part/install.sh).
+[Silo](https://github.com/LLNL/Silo) library is required to run the code. You can istall it and provide the path to silo in the Makefile, or use the provided script [install.sh](3rd_party/install.sh).
 # Installation
 ```
 git clone https://github.com/ijarrah2/NIM-2D-NSE-POLAR-CAVITY.git
